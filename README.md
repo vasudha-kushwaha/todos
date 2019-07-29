@@ -1,7 +1,7 @@
-##Todos
+# Todos
 Laravel 5.8 Personal Todos  project 
 
-##installation
+## installation
 
 ```bash
 git clone dev-01 https://github.com/AbhayLodhi/todos.git 
@@ -14,3 +14,4 @@ php artisan migrate
 
 php artisan serve
 ```
+https://img.shields.io/github/repo-size/AbhayLodhi/todos
