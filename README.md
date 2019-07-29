@@ -14,4 +14,4 @@ php artisan migrate
 
 php artisan serve
 ```
-https://img.shields.io/github/repo-size/AbhayLodhi/todos
+
